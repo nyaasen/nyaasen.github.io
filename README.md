@@ -1,2 +1,2 @@
 
-![Image](test.gif)
+![Image](test.png)
